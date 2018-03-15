@@ -1,4 +1,4 @@
-"use-strict";
+"use strict";
 
 document.addEventListener("DOMContentLoaded", init);
 let queue = 0;
